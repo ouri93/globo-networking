@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+# ignore backend_local.tf file
+backend_local.tf
